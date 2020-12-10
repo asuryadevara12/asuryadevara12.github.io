@@ -1,17 +1,26 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
+title:  "My first blog post!"
 date:   2020-12-9
 categories: jekyll update
 ---
-**MY FIRST BLOG POST**
+**_Working with Jekyll, git, and atom_**
+
 
 *12/2/20 meeting:*
 
 1. Worked with jekyll
+2. Created my own repository
 
-1. Created repository
+I know that isn't descriptive at all, but as I am writing this a week after the meeting, it's quite vague.
 
+*12/9/20 meeting*
+
+1. Troubleshooting problems in atom
+  * I had to change the url of my blog
+  * I could not push, so I had to clone the repository again and that fixed the issue.
+2. I worked on editing this first blog post, and using "bundler exec jekyll serve" I could preview my edits at http://localhost:4000/
+3. I read through the "Master Markdown" guide again to understand how to properly created unordered and order lists. https://guides.github.com/features/mastering-markdown/
 
 *Guidelines/tips:*
 
