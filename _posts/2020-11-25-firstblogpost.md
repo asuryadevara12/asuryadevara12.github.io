@@ -1,19 +1,19 @@
 ---
 layout: default
 title:  "Welcome to Jekyll!"
-date:   2020-11-25 22:11:02 -0500
+date:   2020-12-9
 categories: jekyll update
 ---
-My first blog post
+**MY FIRST BLOG POST**
 
-What I did during 12/2 meeting:
+*12/2/20 meeting:*
 
-Learned about jekyll
+1. Worked with jekyll
 
-Created repository
+1. Created repository
 
 
-Guidelines/tips:
+*Guidelines/tips:*
 
 `bundle exec jekyll serve`,
 which launches a web server and auto-regenerates your site when a file is updated.
